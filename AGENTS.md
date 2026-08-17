@@ -10,8 +10,9 @@
 
 ```
 <business-line>/
-├── index.md      # 业务档案：业务线级思考
-└── contract.md   # 合作档案：合作契约与协议要点
+├── index.md            # 业务档案：业务线级思考
+├── business-model.md   # 商业模型：业务线的商业模式与变现路径
+└── contract.md         # 合作档案：合作契约与协议要点
 ```
 
 ## 业务档案（index.md）
