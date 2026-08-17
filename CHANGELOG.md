@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [0.1.3] - 2026-08-17
+
+### Added
+- Add index.md and business-model.md for qtdata, deriving the data-centric business model (processing fee + storage fee) from the product journal default/2026-08-16
+
 ## [0.1.2] - 2026-08-17
 
 ### Changed
