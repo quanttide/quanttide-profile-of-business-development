@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [0.1.2] - 2026-08-17
+
+### Changed
+- Expand qtcloud business-model.md with data-centric standardized model: per-use processing fee (0.01 CNY), annual storage fee, data lifecycle (retention → read-only → deletion), actuarial/insurance pricing, growth funnel, pay-for-effect
+- Update qtcloud index.md positioning and core goal accordingly
+
 ## [0.1.1] - 2026-08-17
 
 ### Added
