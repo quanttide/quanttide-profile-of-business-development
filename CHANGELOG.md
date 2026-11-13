@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-11-13
+
+### Changed
+- Merge each business line's business-model.md into index.md; one index.md now carries both business-line thinking and business model
+- Merge qtrecurit into qtclass: 量潮招聘档案并入 `qtclass/index.md`，`qtrecurit/` 目录移除
+- Move qtdata、qtclass、qtcloud into `quanttide-tech/`，按所属领域仓库分组；AGENTS.md 目录结构同步
+
 ## 2026-10-20
 
 ### Added
