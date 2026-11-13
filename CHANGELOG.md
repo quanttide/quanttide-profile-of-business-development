@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Unreleased
+
+### Changed
+- 量潮科技业务线档案（`quanttide-tech/`，qtclass、qtcloud、qtdata 共五篇）迁出至 `quanttide-gallery-of-business-development`（`docs/gallery`），源侧不留副本
+
 ## 2026-11-13
 
 ### Changed
